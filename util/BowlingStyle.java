@@ -1,0 +1,13 @@
+package com.tekion.cricket.util;
+
+public enum BowlingStyle {
+    LEFT_HANDED_MEDIUM,
+    RIGHT_HANDED_MEDIUM,
+    LEFT_HANDED_FAST_MEDIUM,
+    RIGHT_HANDED_FAST_MEDIUM,
+    RIGHT_ARM_OFFBREAK,
+    LEFT_ARM_OFFBREAK,
+    RIGHT_ARM_LEGBREAK,
+    LEFT_ARM_LEGBREAK,
+    NONE;
+}

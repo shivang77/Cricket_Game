@@ -1,0 +1,5 @@
+package com.tekion.cricket.util;
+
+public enum TeamName {
+    INDIA, ENGLAND, AUSTRALIA, NEWZEALAND, WESTINDIES, BANGLADESH, AFGHANISTAN, PAKISTAN, SRILANKA, SOUTHAFRICA;
+}
